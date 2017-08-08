@@ -13,6 +13,7 @@
   "dependencies": {
     "axios": "^0.16.2",
     "font-awesome": "^4.7.0",
+    "iview": "^2.0.0",
     "node-sass-chokidar": "0.0.3",
     "normalize.css": "^7.0.0",
     "sass-loader": "^6.0.6",

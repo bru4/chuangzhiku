@@ -1,11 +1,12 @@
 <template>
-  <div id="dashboard">
-
+  <div id="signIn">
+    sign in
   </div>
 </template>
+
 <script>
 export default {
-  name: 'dashboard',
+  name: 'signIn',
   data: () => ({
   })
 }
